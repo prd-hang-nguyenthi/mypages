@@ -1,1 +1,2 @@
-# mypages
+# mypage
+Git practice
